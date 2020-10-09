@@ -3,42 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://seismicsoundlab.github.io/units/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seismicsoundlab.github.io/units/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seismicsoundlab.github.io/units/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seismicsoundlab.github.io/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seismicsoundlab.github.io/units/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://seismicsoundlab.github.io/movies/axisem-1/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/tag/deep-learning/</loc>
+    <loc>https://seismicsoundlab.github.io/tag/climate/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/tag/demo/</loc>
+    <loc>https://seismicsoundlab.github.io/learningunits/6_climate/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,12 +23,7 @@
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/learningunits/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seismicsoundlab.github.io/worksinprogress/external-project/</loc>
+    <loc>https://seismicsoundlab.github.io/tag/fracking/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,12 +33,37 @@
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/worksinprogress/internal-project/</loc>
+    <loc>https://seismicsoundlab.github.io/learningunits/5_geysers/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/tag/human-induced/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/learningunits/4_humaninducedeqs/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/tag/hurricanes/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/tag/kilauea/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://seismicsoundlab.github.io/learningunits/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/learningunits/1_primer/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,6 +78,11 @@
   </url>
   
   <url>
+    <loc>https://seismicsoundlab.github.io/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seismicsoundlab.github.io/tag/sonification/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -93,7 +93,22 @@
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/learningunits/internal-project/</loc>
+    <loc>https://seismicsoundlab.github.io/learningunits/2_tectoniceqs/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/tag/tectonics/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/tag/volcanoes/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/learningunits/3_volcanoesandeqs/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,11 +119,6 @@
   
   <url>
     <loc>https://seismicsoundlab.github.io/movies/waves-in-the-earth/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seismicsoundlab.github.io/worksinprogress/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
