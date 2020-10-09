@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://seismicsoundlab.github.io/courses/example/example1/</loc>
+    <loc>https://seismicsoundlab.github.io/units/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/courses/example/</loc>
+    <loc>https://seismicsoundlab.github.io/units/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seismicsoundlab.github.io/courses/</loc>
+    <loc>https://seismicsoundlab.github.io/units/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://seismicsoundlab.github.io/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/units/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
