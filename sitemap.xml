@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://seismicsoundlab.github.io/movies/chile3d/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seismicsoundlab.github.io/movies/italyeq/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/mantleconvection/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,6 +63,21 @@
   </url>
   
   <url>
+    <loc>https://seismicsoundlab.github.io/movies/geysers/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/gmv_haiti_tohoku/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/gmv_haiti/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seismicsoundlab.github.io/movies/oklahoma/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
@@ -68,17 +93,22 @@
   </url>
   
   <url>
+    <loc>https://seismicsoundlab.github.io/movies/kilauea2000-2010/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seismicsoundlab.github.io/movies/kilauea2018/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/movies/kilauea2000_2010/</loc>
+    <loc>https://seismicsoundlab.github.io/movies/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/movies/</loc>
+    <loc>https://seismicsoundlab.github.io/tag/plate-tectonics/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -99,6 +129,11 @@
   
   <url>
     <loc>https://seismicsoundlab.github.io/movies/axisem3d/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/seus2003-2016/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
