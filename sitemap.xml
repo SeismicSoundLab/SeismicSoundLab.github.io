@@ -3,17 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://seismicsoundlab.github.io/movies/axisem-1/</loc>
+    <loc>https://seismicsoundlab.github.io/movies/italyeq/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/tag/geysers/</loc>
+    <loc>https://seismicsoundlab.github.io/movies/niigataeq16k/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/movies/lone-star/</loc>
+    <loc>https://seismicsoundlab.github.io/movies/niigataeq4k/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/specfemtohoku/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/ambientnoise/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/tag/catalog-movies/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/tag/climate/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/normalmodes/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/tag/earthquake-source/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/tag/energy/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/oklahoma/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/tag/hurricanes/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/hurricanes/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/kilauea2018/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/kilauea2000_2010/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,7 +88,17 @@
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/tag/sonification/</loc>
+    <loc>https://seismicsoundlab.github.io/movies/axisemtomography/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/axisem2d/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/movies/axisem3d/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,18 +108,13 @@
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/tag/waves/</loc>
+    <loc>https://seismicsoundlab.github.io/tag/volcanoes/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/movies/waves-in-the-earth/</loc>
+    <loc>https://seismicsoundlab.github.io/tag/wave-propagation/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seismicsoundlab.github.io/tag/climate/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -64,6 +129,11 @@
   
   <url>
     <loc>https://seismicsoundlab.github.io/tag/fracking/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seismicsoundlab.github.io/tag/geysers/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,11 +153,6 @@
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/tag/hurricanes/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://seismicsoundlab.github.io/tag/kilauea/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -103,6 +168,11 @@
   </url>
   
   <url>
+    <loc>https://seismicsoundlab.github.io/tag/sonification/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seismicsoundlab.github.io/learningunits/2_tectoniceqs/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -113,12 +183,12 @@
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/tag/volcanoes/</loc>
+    <loc>https://seismicsoundlab.github.io/learningunits/3_volcanoesandeqs/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seismicsoundlab.github.io/learningunits/3_volcanoesandeqs/</loc>
+    <loc>https://seismicsoundlab.github.io/tag/waves/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
