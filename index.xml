@@ -5,12 +5,165 @@
     <link>https://seismicsoundlab.github.io/</link>
       <atom:link href="https://seismicsoundlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Seismic Sound Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2020 06:00:00 +0000</lastBuildDate>
     <image>
       <url>https://seismicsoundlab.github.io/images/icon_hu5ee8f58533be3c204bc71859545a1f01_314432_512x512_fill_lanczos_center_2.png</url>
       <title>Seismic Sound Lab</title>
       <link>https://seismicsoundlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Listening to Earthquakes</title>
+      <link>https://seismicsoundlab.github.io/learningunits/1_primer/</link>
+      <pubDate>Fri, 16 Oct 2020 06:00:00 +0000</pubDate>
+      <guid>https://seismicsoundlab.github.io/learningunits/1_primer/</guid>
+      <description>&lt;!-- Insert vimeo video using its id --&gt;
+&lt;p&gt;Niigata
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/212502551&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;pitch shifting seismic data
+(IMAGE).&lt;/p&gt;
+&lt;p&gt;2D wave propagation (AXISEM) no sound
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/226458561&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Listening to earthquakes (Theresa and Chris&amp;rsquo;s movie):
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/467983541&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Tohoku (SPECFEM)
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/153300296&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Free Oscillations:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tectonic Earthquakes: Patterns in space and time</title>
+      <link>https://seismicsoundlab.github.io/learningunits/2_tectoniceqs/</link>
+      <pubDate>Fri, 16 Oct 2020 05:00:00 +0000</pubDate>
+      <guid>https://seismicsoundlab.github.io/learningunits/2_tectoniceqs/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;!-- Insert vimeo video using its id --&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Volcanoes and Earthquakes</title>
+      <link>https://seismicsoundlab.github.io/learningunits/3_volcanoesandeqs/</link>
+      <pubDate>Fri, 16 Oct 2020 04:00:00 +0000</pubDate>
+      <guid>https://seismicsoundlab.github.io/learningunits/3_volcanoesandeqs/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;!-- Insert vimeo video using its id --&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Human-induced earthquakes and Energy</title>
+      <link>https://seismicsoundlab.github.io/learningunits/4_humaninducedeqs/</link>
+      <pubDate>Fri, 16 Oct 2020 03:00:00 +0000</pubDate>
+      <guid>https://seismicsoundlab.github.io/learningunits/4_humaninducedeqs/</guid>
+      <description>&lt;!-- Insert vimeo video using its id --&gt;
+&lt;p&gt;Oklahoma
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/186029718&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Geysers geothermal field in Northern California:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/259106314&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate Change</title>
+      <link>https://seismicsoundlab.github.io/learningunits/6_climate/</link>
+      <pubDate>Fri, 16 Oct 2020 02:00:00 +0000</pubDate>
+      <guid>https://seismicsoundlab.github.io/learningunits/6_climate/</guid>
+      <description>&lt;!-- Insert vimeo video using its id --&gt;
+&lt;p&gt;The solar insolation is a measure of how much of the sun&amp;rsquo;s energy hits the Earth&amp;rsquo;s surface. It varies through time because of changes in the Earth&amp;rsquo;s orbit. Carbon dioxide (CO2) and other atmospheric gases vary in time as well, basically coupled through many complex processes in the oceans, atmosphere and biosphere. Here&amp;rsquo;s CO2 data and insolation data for the last 800,000 years:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/467520934&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;p&gt;As you can see and hear, something ridiculous happens right there at the end.
+Humans figured out how to extract carbon in various forms and burn it. Energy density increases, and so does human usage.&lt;/p&gt;
+&lt;p&gt;[include plot of various sources of human emissions of CO2.]&lt;/p&gt;
+&lt;p&gt;We zoom in to the last 270 years:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/467520973&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;p&gt;The difference between human emissions and atmospheric CO2 reflects how much the oceans and biosphere can absorb, called a buffer. We are diminishing that capacity.&lt;/p&gt;
+&lt;p&gt;And you can see the average temperature rising as well.&lt;/p&gt;
+&lt;p&gt;Feedbacks will emerge.. And changes in weather.. Hurricanes are on the edge of that interface between weather and climate.&lt;/p&gt;
+&lt;p&gt;Owen Evans&amp;rsquo; project in collaboration with Chia-ying Lee at LDEO:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/287668309&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;[put in a graph showing number and intensity of hurricanes in the last 20 years, and some predictions.]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geysers and Volcanoes: Scaling by Analogy</title>
+      <link>https://seismicsoundlab.github.io/learningunits/5_geysers/</link>
+      <pubDate>Fri, 16 Oct 2020 01:00:00 +0000</pubDate>
+      <guid>https://seismicsoundlab.github.io/learningunits/5_geysers/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;!-- Insert vimeo video using its id --&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Key to Earthquake Catalog Movies</title>
@@ -20,7 +173,7 @@
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153547572&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -42,7 +195,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/236239313&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -86,7 +239,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/194834420&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -108,7 +261,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153653264&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -130,7 +283,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/212502551&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -152,7 +305,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/212502534&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -174,7 +327,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153300296&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -196,7 +349,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/185877211&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -218,7 +371,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153547570&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -240,7 +393,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153547571&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -262,7 +415,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/185877229&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -284,7 +437,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/185877244&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -305,13 +458,15 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <guid>https://seismicsoundlab.github.io/movies/acousticemissions/</guid>
       <description>&lt;iframe width=&#34;100%&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/462371277&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/seismicsoundlab&#34; title=&#34;seismicsoundlab&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;seismicsoundlab&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/seismicsoundlab/3rocks_acousticemissions&#34; title=&#34;3rocks_AcousticEmissions&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;3rocks_AcousticEmissions&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br&gt;
-DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
+Acoustic emissions from three different rock types deformed in the laboratory(in MHz frequency range, slowed down to audible).
+Deformation experiments: Alexandre Schubnel&amp;rsquo;s lab, ENS Paris
+Sonification: Ben Holtzman and Arthur Paté
+Narration: Martin Pratt
+Made for the 2017 Open House at Lamont Doherty Earth Observatory, Columbia University&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;relative/path/to/unit&#34;&gt;NAME OF UNIT&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;../../learningunits/4_humaninducedeqs/&#34;&gt;Human-induced Earthquakes and Energy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -324,17 +479,15 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153300829&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
-DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;relative/path/to/unit&#34;&gt;NAME OF UNIT&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+This movie is about a cutting edge topic in seismology: the study of the ambient noise field in the Earth. We show the average ocean wave height in the northern hemisphere oceans, and you hear the ambient seismic noise for the entire year of 2012, in which Hurricane Sandy occurred in the Atlantic ocean. One year is compressed to 4 minutes and 53 seconds.&lt;/p&gt;
+&lt;p&gt;Why do we juxtapose this animation with this sound? In every seismogram (data recorded at a seismometer), there are constant small amplitude vibrations at 7-10 seconds period. These vibrations, we now know, are created by ocean waves that push down on the seafloor and generate vibrations that travel throughout the solid earth. The images in this movie are the average ocean wave height (data from NOAA, Tolman 2009 and Ardhuin et al., 2011) measured by satellites globally every 3 hours. The sound is simply the seismic data from two seismometers (red dots) in the northeastern US and central Japan, filtered at a band that includes the noise but suppresses the large amplitude earthquakes (around 7-10 seconds).&lt;/p&gt;
+&lt;p&gt;Lucia Gualtieri, Ben Holtzman, Douglas Repetto, Jason Candler CC licence seismicsoundlab.org&lt;/p&gt;
+&lt;!-- ## Related Learning Units
+* [Listening to Earthquakes](../../learningunits/1_primer/)
+* [NAME OF UNIT](relative/path/to/unit) --&gt;
 </description>
     </item>
     
@@ -346,7 +499,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -368,7 +521,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/259106314&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -390,7 +543,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/187740441&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -412,7 +565,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/187203773&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -434,7 +587,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/186029718&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -456,7 +609,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/287668309&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -478,7 +631,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/288805184&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -500,7 +653,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/368839934&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -522,16 +675,16 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/226458465&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
-DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
+Seismic wave field contorted by cold fast slabs and warm slow plumes&amp;hellip; Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).
+
+&lt;a href=&#34;http://seis.earth.ox.ac.uk/axisem/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;seis.earth.ox.ac.uk/axisem/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;relative/path/to/unit&#34;&gt;NAME OF UNIT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -544,16 +697,16 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/226458561&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
-DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
+Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).
+
+&lt;a href=&#34;http://seis.earth.ox.ac.uk/axisem/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;seis.earth.ox.ac.uk/axisem/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;relative/path/to/unit&#34;&gt;NAME OF UNIT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -566,16 +719,16 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/226458580&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
-DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
+Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).
+
+&lt;a href=&#34;http://seis.earth.ox.ac.uk/axisem/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;seis.earth.ox.ac.uk/axisem/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;relative/path/to/unit&#34;&gt;NAME OF UNIT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -588,7 +741,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/200115668&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -599,159 +752,6 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
 &lt;li&gt;
 &lt;a href=&#34;relative/path/to/unit&#34;&gt;NAME OF UNIT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Climate Change</title>
-      <link>https://seismicsoundlab.github.io/learningunits/6_climate/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/learningunits/6_climate/</guid>
-      <description>&lt;!-- Insert vimeo video using its id --&gt;
-&lt;p&gt;The solar insolation is a measure of how much of the sun&amp;rsquo;s energy hits the Earth&amp;rsquo;s surface. It varies through time because of changes in the Earth&amp;rsquo;s orbit. Carbon dioxide (CO2) and other atmospheric gases vary in time as well, basically coupled through many complex processes in the oceans, atmosphere and biosphere. Here&amp;rsquo;s CO2 data and insolation data for the last 800,000 years:&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/467520934&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;As you can see and hear, something ridiculous happens right there at the end.
-Humans figured out how to extract carbon in various forms and burn it. Energy density increases, and so does human usage.&lt;/p&gt;
-&lt;p&gt;[include plot of various sources of human emissions of CO2.]&lt;/p&gt;
-&lt;p&gt;We zoom in to the last 270 years:&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/467520973&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The difference between human emissions and atmospheric CO2 reflects how much the oceans and biosphere can absorb, called a buffer. We are diminishing that capacity.&lt;/p&gt;
-&lt;p&gt;And you can see the average temperature rising as well.&lt;/p&gt;
-&lt;p&gt;Feedbacks will emerge.. And changes in weather.. Hurricanes are on the edge of that interface between weather and climate.&lt;/p&gt;
-&lt;p&gt;Owen Evans&#39; project in collaboration with Chia-ying Lee at LDEO:
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/287668309&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;[put in a graph showing number and intensity of hurricanes in the last 20 years, and some predictions.]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Geysers and Volcanoes: Scaling by Analogy</title>
-      <link>https://seismicsoundlab.github.io/learningunits/5_geysers/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/learningunits/5_geysers/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;!-- Insert vimeo video using its id --&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Human-induced earthquakes and Energy</title>
-      <link>https://seismicsoundlab.github.io/learningunits/4_humaninducedeqs/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/learningunits/4_humaninducedeqs/</guid>
-      <description>&lt;!-- Insert vimeo video using its id --&gt;
-&lt;p&gt;Oklahoma
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/186029718&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;Geysers geothermal field in Northern California:
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/259106314&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Listening to Earthquakes</title>
-      <link>https://seismicsoundlab.github.io/learningunits/1_primer/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/learningunits/1_primer/</guid>
-      <description>&lt;!-- Insert vimeo video using its id --&gt;
-&lt;p&gt;Niigata
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/212502551&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;pitch shifting seismic data
-(IMAGE).&lt;/p&gt;
-&lt;p&gt;2D wave propagation (AXISEM) no sound
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/226458561&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;Listening to earthquakes (Theresa and Chris&amp;rsquo;s movie):
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/467983541&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;Tohoku (SPECFEM)
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/153300296&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;Free Oscillations:
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tectonic Earthquakes: Patterns in space and time</title>
-      <link>https://seismicsoundlab.github.io/learningunits/2_tectoniceqs/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/learningunits/2_tectoniceqs/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;!-- Insert vimeo video using its id --&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Volcanoes and Earthquakes</title>
-      <link>https://seismicsoundlab.github.io/learningunits/3_volcanoesandeqs/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/learningunits/3_volcanoesandeqs/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;!-- Insert vimeo video using its id --&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     

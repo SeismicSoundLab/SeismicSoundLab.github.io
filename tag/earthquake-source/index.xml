@@ -42,7 +42,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/212502551&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -64,7 +64,7 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/212502534&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -85,13 +85,15 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
       <guid>https://seismicsoundlab.github.io/movies/acousticemissions/</guid>
       <description>&lt;iframe width=&#34;100%&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/462371277&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/seismicsoundlab&#34; title=&#34;seismicsoundlab&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;seismicsoundlab&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/seismicsoundlab/3rocks_acousticemissions&#34; title=&#34;3rocks_AcousticEmissions&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;3rocks_AcousticEmissions&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br&gt;
-DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
+Acoustic emissions from three different rock types deformed in the laboratory(in MHz frequency range, slowed down to audible).
+Deformation experiments: Alexandre Schubnel&amp;rsquo;s lab, ENS Paris
+Sonification: Ben Holtzman and Arthur Paté
+Narration: Martin Pratt
+Made for the 2017 Open House at Lamont Doherty Earth Observatory, Columbia University&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;relative/path/to/unit&#34;&gt;NAME OF UNIT&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;../../learningunits/4_humaninducedeqs/&#34;&gt;Human-induced Earthquakes and Energy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

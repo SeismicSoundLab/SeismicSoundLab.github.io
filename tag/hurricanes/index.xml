@@ -5,12 +5,46 @@
     <link>https://seismicsoundlab.github.io/tag/hurricanes/</link>
       <atom:link href="https://seismicsoundlab.github.io/tag/hurricanes/index.xml" rel="self" type="application/rss+xml" />
     <description>Hurricanes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2020 02:00:00 +0000</lastBuildDate>
     <image>
       <url>https://seismicsoundlab.github.io/images/icon_hu5ee8f58533be3c204bc71859545a1f01_314432_512x512_fill_lanczos_center_2.png</url>
       <title>Hurricanes</title>
       <link>https://seismicsoundlab.github.io/tag/hurricanes/</link>
     </image>
+    
+    <item>
+      <title>Climate Change</title>
+      <link>https://seismicsoundlab.github.io/learningunits/6_climate/</link>
+      <pubDate>Fri, 16 Oct 2020 02:00:00 +0000</pubDate>
+      <guid>https://seismicsoundlab.github.io/learningunits/6_climate/</guid>
+      <description>&lt;!-- Insert vimeo video using its id --&gt;
+&lt;p&gt;The solar insolation is a measure of how much of the sun&amp;rsquo;s energy hits the Earth&amp;rsquo;s surface. It varies through time because of changes in the Earth&amp;rsquo;s orbit. Carbon dioxide (CO2) and other atmospheric gases vary in time as well, basically coupled through many complex processes in the oceans, atmosphere and biosphere. Here&amp;rsquo;s CO2 data and insolation data for the last 800,000 years:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/467520934&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;p&gt;As you can see and hear, something ridiculous happens right there at the end.
+Humans figured out how to extract carbon in various forms and burn it. Energy density increases, and so does human usage.&lt;/p&gt;
+&lt;p&gt;[include plot of various sources of human emissions of CO2.]&lt;/p&gt;
+&lt;p&gt;We zoom in to the last 270 years:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/467520973&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;p&gt;The difference between human emissions and atmospheric CO2 reflects how much the oceans and biosphere can absorb, called a buffer. We are diminishing that capacity.&lt;/p&gt;
+&lt;p&gt;And you can see the average temperature rising as well.&lt;/p&gt;
+&lt;p&gt;Feedbacks will emerge.. And changes in weather.. Hurricanes are on the edge of that interface between weather and climate.&lt;/p&gt;
+&lt;p&gt;Owen Evans&amp;rsquo; project in collaboration with Chia-ying Lee at LDEO:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/287668309&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;[put in a graph showing number and intensity of hurricanes in the last 20 years, and some predictions.]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hurricanes</title>
@@ -20,7 +54,7 @@
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/287668309&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
@@ -31,40 +65,6 @@ DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
 &lt;li&gt;
 &lt;a href=&#34;relative/path/to/unit&#34;&gt;NAME OF UNIT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Climate Change</title>
-      <link>https://seismicsoundlab.github.io/learningunits/6_climate/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/learningunits/6_climate/</guid>
-      <description>&lt;!-- Insert vimeo video using its id --&gt;
-&lt;p&gt;The solar insolation is a measure of how much of the sun&amp;rsquo;s energy hits the Earth&amp;rsquo;s surface. It varies through time because of changes in the Earth&amp;rsquo;s orbit. Carbon dioxide (CO2) and other atmospheric gases vary in time as well, basically coupled through many complex processes in the oceans, atmosphere and biosphere. Here&amp;rsquo;s CO2 data and insolation data for the last 800,000 years:&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/467520934&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;As you can see and hear, something ridiculous happens right there at the end.
-Humans figured out how to extract carbon in various forms and burn it. Energy density increases, and so does human usage.&lt;/p&gt;
-&lt;p&gt;[include plot of various sources of human emissions of CO2.]&lt;/p&gt;
-&lt;p&gt;We zoom in to the last 270 years:&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/467520973&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The difference between human emissions and atmospheric CO2 reflects how much the oceans and biosphere can absorb, called a buffer. We are diminishing that capacity.&lt;/p&gt;
-&lt;p&gt;And you can see the average temperature rising as well.&lt;/p&gt;
-&lt;p&gt;Feedbacks will emerge.. And changes in weather.. Hurricanes are on the edge of that interface between weather and climate.&lt;/p&gt;
-&lt;p&gt;Owen Evans&#39; project in collaboration with Chia-ying Lee at LDEO:
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/287668309&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;[put in a graph showing number and intensity of hurricanes in the last 20 years, and some predictions.]&lt;/p&gt;
 </description>
     </item>
     
