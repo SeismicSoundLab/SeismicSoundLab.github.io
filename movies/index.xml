@@ -20,7 +20,7 @@
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153547572&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 An earthquake &amp;ldquo;catalog&amp;rdquo; is the list of time, location, magnitude, depth and other parameters describing the energy released by the earthquake. We generate dots and synchronous sounds marking each event, to generate movies with soundtracks for a region and time window, such as these:&lt;br&gt;
@@ -46,7 +46,7 @@ The sounds for each earthquake magnitude are sampled from small aftershocks of s
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/236239313&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 This video is about Chile_biennale&lt;/p&gt;
@@ -86,7 +86,7 @@ This is the sonorous recording of the first one shake of the Friuli&amp;rsquo;s 
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/194834420&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;\&lt;/p&gt;
 &lt;!-- ## Related Learning Units
@@ -103,7 +103,7 @@ This is the sonorous recording of the first one shake of the Friuli&amp;rsquo;s 
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153653264&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 This movie shows all events recorded in the Global CMT catalog from 1993 to 2013 of magnitude 5.4 and above. The time scale is 10 seconds per year.&lt;/p&gt;
@@ -128,7 +128,7 @@ This movie shows all events recorded in the Global CMT catalog from 1993 to 2013
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/212502551&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;\&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
@@ -147,7 +147,7 @@ This movie shows all events recorded in the Global CMT catalog from 1993 to 2013
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/212502534&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;\&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
@@ -166,10 +166,10 @@ This movie shows all events recorded in the Global CMT catalog from 1993 to 2013
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153300296&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
-This movie shows the seismic wave field in the Earth for two hours after the Tohoku Magnitude 9.0 earthquake on March 11, 2011. The sounds are real seismic data taken from 8 seismometers on a great circle around the globe, and sped up into the sonic range. The first two sequences are filtered to emphasize surface waves and the second two filtered to emphasize body waves. The simulation was performed by Daniel Peter using SPECFEM3D and rendered with ``yt&amp;rsquo;&amp;rsquo; (
+This movie shows the seismic wave field in the Earth for two hours after the Tohoku Magnitude 9.0 earthquake on March 11, 2011. The sounds are real seismic data taken from 8 seismometers on a great circle around the globe, and sped up into the sonic range. The first two sequences are filtered to emphasize surface waves and the second two filtered to emphasize body waves. The simulation was performed by Daniel Peter using SPECFEM3D and rendered with ``yt&#39;&#39; (
 &lt;a href=&#34;http://www.yt-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;yt-project.org&lt;/a&gt;), by Matt Turk. Concept and design by Ben Holtzman and Jason Candler.&lt;/p&gt;
 &lt;p&gt;Ben Holtzman, Matt Turk, Jason Candler. CC seismicsoundlab.org&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
@@ -188,7 +188,7 @@ This movie shows the seismic wave field in the Earth for two hours after the Toh
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/185877211&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 This movie shows earthquakes from California larger than Magnitude 2, in the years between 2001-2007. The Magnitude 6.2 San Simeon and Magnitude 6.0 Parkfield earthquakes are clear, along with their many aftershocks. The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules:&lt;br&gt;
@@ -214,7 +214,7 @@ The data comes from the ANSS catalog of the US Geological Survey, accessible fro
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153547570&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 This movie shows earthquakes in the Caribbean region larger than Magnitude 3.5 (about 8,000 events), in the years between Jan. 1, 2008 - Dec. 31, 2014. The Magnitude 7.0 Haiti earthquake was on January 12, 2010. This movie covers same time window and distance in latitude (but not longitude) as the movie on the Japan region and Tohoku Mag9.0 earthquake: 
@@ -242,7 +242,7 @@ The data comes from the ANSS catalog of the US Geological Survey, accessible fro
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153547571&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 This movie shows earthquakes from Japan larger than Magnitude 3.5 (more than 10,000 events), in the years between Jan. 1, 2008 - Dec. 31, 2014. The Magnitude 9.0 Tohoku-oki earthquake was on March 11, 2011 (note the title bar in the movie says 2012, which is incorrect!). This is the same time window and distance in latitude (but not longitude) as the movie on the Caribbean and Haiti M7.0 earthquake: Haiti: 
@@ -269,7 +269,7 @@ The data comes from the ANSS catalog of the US Geological Survey, accessible fro
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/185877229&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 This movie shows earthquakes from the Sumatra region larger than Magnitude 3.5 (more than 10,000 events), in the years between [ ]. The Magnitude 9.2 Sumatra earthquake was on December 26, 2004. The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules:&lt;br&gt;
@@ -295,7 +295,7 @@ The data comes from the ANSS catalog of the US Geological Survey, accessible fro
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/185877244&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 This movie shows earthquakes from Western North America larger than Magnitude 3.5, in the years between Jan. 1, 2008 - Dec. 31, 2014. The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules:
@@ -341,7 +341,7 @@ Made for the 2017 Open House at Lamont Doherty Earth Observatory, Columbia Unive
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/153300829&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 This movie is about a cutting edge topic in seismology: the study of the ambient noise field in the Earth. We show the average ocean wave height in the northern hemisphere oceans, and you hear the ambient seismic noise for the entire year of 2012, in which Hurricane Sandy occurred in the Atlantic ocean. One year is compressed to 4 minutes and 53 seconds.&lt;/p&gt;
@@ -361,7 +361,7 @@ This movie is about a cutting edge topic in seismology: the study of the ambient
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 Audiovisual demonstration where traveling waves are generated by the sum of many standing waves (normal modes) at the Earth&amp;rsquo;s surface.&lt;/p&gt;
@@ -383,7 +383,7 @@ Audiovisual demonstration where traveling waves are generated by the sum of many
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/259106314&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 Geysers catalog movies, before and after machine listening&amp;hellip;&lt;/p&gt;
@@ -405,7 +405,7 @@ Geysers catalog movies, before and after machine listening&amp;hellip;&lt;/p&gt;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/187740441&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 Magnitude 7.0 Haiti 2010, Magnitude 9.0 Tohoku 2011. Data from the Transportable Array (NSF Earthscope Project) from IRIS. Based on ground motion visualization originally by Chuck Ammon (
@@ -426,7 +426,7 @@ Magnitude 7.0 Haiti 2010, Magnitude 9.0 Tohoku 2011. Data from the Transportable
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/187203773&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;\&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
@@ -445,7 +445,7 @@ Magnitude 7.0 Haiti 2010, Magnitude 9.0 Tohoku 2011. Data from the Transportable
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/186029718&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;\&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
@@ -464,7 +464,7 @@ Magnitude 7.0 Haiti 2010, Magnitude 9.0 Tohoku 2011. Data from the Transportable
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/287668309&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;\&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
@@ -483,7 +483,7 @@ Magnitude 7.0 Haiti 2010, Magnitude 9.0 Tohoku 2011. Data from the Transportable
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/288805184&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 This movie is a work in progress!
@@ -504,7 +504,7 @@ This movie is a work in progress!
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/368839934&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;\&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
@@ -523,7 +523,7 @@ This movie is a work in progress!
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/226458465&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 Seismic wave field contorted by cold fast slabs and warm slow plumes&amp;hellip; Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).\
@@ -545,7 +545,7 @@ Seismic wave field contorted by cold fast slabs and warm slow plumes&amp;hellip;
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/226458561&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).&lt;br&gt;
@@ -567,7 +567,7 @@ Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound)
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/226458580&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).\
@@ -589,7 +589,7 @@ Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound)
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/200115668&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
 DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
