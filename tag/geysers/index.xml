@@ -43,5 +43,24 @@
 </description>
     </item>
     
+    <item>
+      <title>Lone Star Geyser, Yellowstone</title>
+      <link>https://seismicsoundlab.github.io/movies/lonestargeyser/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://seismicsoundlab.github.io/movies/lonestargeyser/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/379787732&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;\&lt;/p&gt;
+&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;../../learningunits/5_geysers/&#34;&gt;Geysers and Volcanoes: Scaling by Analogy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
