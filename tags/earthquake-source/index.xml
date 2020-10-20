@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earthquake Source on </title>
+    <link>/tags/earthquake-source/</link>
+    <description>Recent content in Earthquake Source on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/earthquake-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1976 Italy Earthquake, Mag. 6.5</title>
+      <link>/movies/italyeq/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/italyeq/</guid>
+      <description>(We did not make this one!) From the youtube site:
+This is the sonorous recording of the first one shake of the Friuli&amp;rsquo;s earthquake (north Italy). A Tricesimo&amp;rsquo;s boy, Mario Garlatti, was pouring again a passage of the Pink Floyd from the turntable to the cassettes recorder. The microphone, remained on, it has recorded a dramatic sequence: the arm of the turntable that jumps, the noise provoked by the shake and the terror in the house.</description>
+    </item>
+    
+    <item>
+      <title>2007 Niigata Earthquake (16K)</title>
+      <link>/movies/niigataeq16k/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/niigataeq16k/</guid>
+      <description>   
+Related Learning Units  Listening to Earthquakes  </description>
+    </item>
+    
+    <item>
+      <title>2007 Niigata Earthquake (4K)</title>
+      <link>/movies/niigataeq4k/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/niigataeq4k/</guid>
+      <description>   
+Related Learning Units  Listening to Earthquakes  </description>
+    </item>
+    
+    <item>
+      <title>Acoustic Emissions</title>
+      <link>/movies/acousticemissions/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/acousticemissions/</guid>
+      <description> seismicsoundlab · 3rocks_AcousticEmissions
+
+Acoustic emissions from three different rock types deformed in the laboratory(in MHz frequency range, slowed down to audible).
+Deformation experiments: Alexandre Schubnel&amp;rsquo;s lab, ENS Paris
+Sonification: Ben Holtzman and Arthur Paté
+Narration: Martin Pratt
+Made for the 2017 Open House at Lamont Doherty Earth Observatory, Columbia University
+Related Learning Units  Human-induced Earthquakes and Energy  </description>
+    </item>
+    
+  </channel>
+</rss>

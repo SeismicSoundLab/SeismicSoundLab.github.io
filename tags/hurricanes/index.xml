@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hurricanes on </title>
+    <link>/tags/hurricanes/</link>
+    <description>Recent content in Hurricanes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Oct 2020 02:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hurricanes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Climate Change</title>
+      <link>/learningunits/6_climate/</link>
+      <pubDate>Fri, 16 Oct 2020 02:00:00 +0000</pubDate>
+      
+      <guid>/learningunits/6_climate/</guid>
+      <description>Solar insolation is a measure of how much of the sun’s energy hits the Earth’s surface. This energy drives the climate and weather of our planet. The seasons are caused by the planet’s tilt&amp;mdash; half of the planet is closer to the sun in Summer than in Winter. However, solar insolation itself can vary on timescales from tens to hundreds of thousands of years, as a result of changes in the planet’s tilt and the shape of its orbit.</description>
+    </item>
+    
+    <item>
+      <title>Hurricanes</title>
+      <link>/movies/hurricanes/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/hurricanes/</guid>
+      <description>   
+Related Learning Units  Climate Change  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kilauea on </title>
+    <link>/tags/kilauea/</link>
+    <description>Recent content in Kilauea on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Oct 2020 04:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/kilauea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Volcanoes and Earthquakes</title>
+      <link>/learningunits/3_volcanoesandeqs/</link>
+      <pubDate>Fri, 16 Oct 2020 04:00:00 +0000</pubDate>
+      
+      <guid>/learningunits/3_volcanoesandeqs/</guid>
+      <description>Every volcano has a wide range of processes going on inside that generate seismic waves. Some of these are &amp;lsquo;normal&amp;rsquo; earthquakes, some are tremors associated with magma moving around in its plumbing. We will build more movies of other volcanoes soon, but for now, here is our rough draft of catalogs from the Kilauea eruption of 2018. Listen for the cyclic patterns in the following movie. We have never seen this kind of pattern in an eruption, and are working to understand how this happens:</description>
+    </item>
+    
+  </channel>
+</rss>

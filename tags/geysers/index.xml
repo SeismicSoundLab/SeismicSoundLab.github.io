@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geysers on </title>
+    <link>/tags/geysers/</link>
+    <description>Recent content in Geysers on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Oct 2020 01:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/geysers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Geysers and Volcanoes: Scaling by Analogy</title>
+      <link>/learningunits/5_geysers/</link>
+      <pubDate>Fri, 16 Oct 2020 01:00:00 +0000</pubDate>
+      
+      <guid>/learningunits/5_geysers/</guid>
+      <description>Geysers are hydrothermal features that episodically erupt liquid and vapor. The eruptions that we see at the surface are the culmination of a complex series of processes below the ground hidden from direct observation. But that doesn’t mean they are hidden entirely; we can monitor them with various sensors to record different aspects of the system. For example, a tilt meter can measure the inflation of the ground due to pressure build up before an eruption, and a seismometer can measure hydrothermal ‘tremor’, which tells us about the bubbling of the hot liquid.</description>
+    </item>
+    
+    <item>
+      <title>Lone Star Geyser, Yellowstone</title>
+      <link>/movies/lonestargeyser/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/lonestargeyser/</guid>
+      <description>    by Anna Barth, Leif Karlstrom and Ben Holtzman, with Arthur Pate and Avinash Nayak, described in an article in press in the Computer Music Journal. Related Learning Units  Geysers and Volcanoes: Scaling by Analogy  </description>
+    </item>
+    
+  </channel>
+</rss>

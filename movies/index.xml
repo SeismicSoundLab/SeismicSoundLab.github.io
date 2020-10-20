@@ -1,626 +1,309 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Movies | Seismic Sound Lab</title>
-    <link>https://seismicsoundlab.github.io/movies/</link>
-      <atom:link href="https://seismicsoundlab.github.io/movies/index.xml" rel="self" type="application/rss+xml" />
-    <description>Movies</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 10:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://seismicsoundlab.github.io/images/icon_hu5ee8f58533be3c204bc71859545a1f01_314432_512x512_fill_lanczos_center_2.png</url>
-      <title>Movies</title>
-      <link>https://seismicsoundlab.github.io/movies/</link>
-    </image>
+    <title>Movies on </title>
+    <link>/movies/</link>
+    <description>Recent content in Movies on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Oct 2020 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/movies/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Key to Earthquake Catalog Movies</title>
-      <link>https://seismicsoundlab.github.io/movies/catalog_key/</link>
+      <link>/movies/catalog_key/</link>
       <pubDate>Sat, 10 Oct 2020 10:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/catalog_key/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/153547572&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-An earthquake &amp;ldquo;catalog&amp;rdquo; is the list of time, location, magnitude, depth and other parameters describing the energy released by the earthquake. We generate dots and synchronous sounds marking each event, to generate movies with soundtracks for a region and time window, such as these:&lt;br&gt;
-Tohoku: 
-&lt;a href=&#34;https://vimeo.com/153547571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vimeo.com/153547571&lt;/a&gt;&lt;br&gt;
-Haiti: 
-&lt;a href=&#34;https://vimeo.com/153547570&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vimeo.com/153547570&lt;/a&gt;&lt;br&gt;
-The sounds for each earthquake magnitude are sampled from small aftershocks of sonified data from the Mag6.6 Niigata, Japan earthquake of 2007. With increasing depth, we filter out increasing amounts of high frequency energy to give the impression of attenuation of waves as they travel from greater depths in the earth towards the surface where they are recorded.&lt;/p&gt;
-&lt;p&gt;Ben Holtzman, Douglas Repetto, Jason Candler, Nolan Lem CC seismicsoundlab.org&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/2_tectoniceqs/&#34;&gt;Tectonic Earthquakes: Patterns in Space and Time&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/catalog_key/</guid>
+      <description>An earthquake &amp;ldquo;catalog&amp;rdquo; is the list of time, location, magnitude, depth and other parameters describing the energy released by the earthquake. We generate dots and synchronous sounds marking each event, to generate movies with soundtracks for a region and time window, such as these:
+Tohoku: vimeo.com/153547571
+Haiti: vimeo.com/153547570
+The sounds for each earthquake magnitude are sampled from small aftershocks of sonified data from the Mag6.6 Niigata, Japan earthquake of 2007.</description>
     </item>
     
     <item>
       <title>17 Years of Earthquakes in Chile (3D)</title>
-      <link>https://seismicsoundlab.github.io/movies/chile3d/</link>
+      <link>/movies/chile3d/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/chile3d/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/236239313&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-This video is about Chile_biennale&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/chile3d/</guid>
+      <description>   
+This video is about Chile_biennale
+Related Learning Units  Listening to Earthquakes  </description>
     </item>
     
     <item>
       <title>1976 Italy Earthquake, Mag. 6.5</title>
-      <link>https://seismicsoundlab.github.io/movies/italyeq/</link>
+      <link>/movies/italyeq/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/italyeq/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/UODyP9qCY_g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-(We did not make this one!) From the youtube site:&lt;/p&gt;
-&lt;p&gt;This is the sonorous recording of the first one shake of the Friuli&amp;rsquo;s earthquake (north Italy). A Tricesimo&amp;rsquo;s boy, Mario Garlatti, was pouring again a passage of the Pink Floyd from the turntable to the cassettes recorder. The microphone, remained on, it has recorded a dramatic sequence: the arm of the turntable that jumps, the noise provoked by the shake and the terror in the house.&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/3_volcanoesandeqs/&#34;&gt;Volcanoes and Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/italyeq/</guid>
+      <description>(We did not make this one!) From the youtube site:
+This is the sonorous recording of the first one shake of the Friuli&amp;rsquo;s earthquake (north Italy). A Tricesimo&amp;rsquo;s boy, Mario Garlatti, was pouring again a passage of the Pink Floyd from the turntable to the cassettes recorder. The microphone, remained on, it has recorded a dramatic sequence: the arm of the turntable that jumps, the noise provoked by the shake and the terror in the house.</description>
     </item>
     
     <item>
       <title>2 Billion Years of Plate Tectonics</title>
-      <link>https://seismicsoundlab.github.io/movies/mantleconvection/</link>
+      <link>/movies/mantleconvection/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/mantleconvection/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/194834420&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;\&lt;/p&gt;
-&lt;!-- ## Related Learning Units
-* [Listening to Earthquakes](../../learningunits/1_primer/)
-* [NAME OF UNIT](relative/path/to/unit) --&gt;
-</description>
+      
+      <guid>/movies/mantleconvection/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>20 Years of Global Earthquakes (1993-2013)</title>
-      <link>https://seismicsoundlab.github.io/movies/globalcmt1993-2013/</link>
+      <link>/movies/globalcmt1993-2013/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/globalcmt1993-2013/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/153653264&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-This movie shows all events recorded in the Global CMT catalog from 1993 to 2013 of magnitude 5.4 and above. The time scale is 10 seconds per year.&lt;/p&gt;
-&lt;p&gt;Earthquake magnitude and location are displayed by a circle and simultaneous audio event. The circle diameter is exponentially mapped to magnitude. The audio events are synthesized to scale continuously with earthquake magnitude in pitch, decay-time and overtone content.&lt;/p&gt;
-&lt;p&gt;Please watch in HD and with stereo speakers/headphones if possible.&lt;/p&gt;
-&lt;p&gt;Data credit goes to The Global CMT Project, 
-&lt;a href=&#34;http://www.globalcmt.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;globalcmt.org&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Joachim Gossmann. CC licence.&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/2_tectoniceqs/&#34;&gt;Tectonic Earthquakes: Patterns in space and time&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/globalcmt1993-2013/</guid>
+      <description>This movie shows all events recorded in the Global CMT catalog from 1993 to 2013 of magnitude 5.4 and above. The time scale is 10 seconds per year.
+Earthquake magnitude and location are displayed by a circle and simultaneous audio event. The circle diameter is exponentially mapped to magnitude. The audio events are synthesized to scale continuously with earthquake magnitude in pitch, decay-time and overtone content.</description>
     </item>
     
     <item>
       <title>2007 Niigata Earthquake (16K)</title>
-      <link>https://seismicsoundlab.github.io/movies/niigataeq16k/</link>
+      <link>/movies/niigataeq16k/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/niigataeq16k/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/212502551&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;\&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/niigataeq16k/</guid>
+      <description>   
+Related Learning Units  Listening to Earthquakes  </description>
     </item>
     
     <item>
       <title>2007 Niigata Earthquake (4K)</title>
-      <link>https://seismicsoundlab.github.io/movies/niigataeq4k/</link>
+      <link>/movies/niigataeq4k/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/niigataeq4k/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/212502534&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;\&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/niigataeq4k/</guid>
+      <description>   
+Related Learning Units  Listening to Earthquakes  </description>
     </item>
     
     <item>
       <title>2011 Tohoku Earthquake, Mag 9.0</title>
-      <link>https://seismicsoundlab.github.io/movies/specfemtohoku/</link>
+      <link>/movies/specfemtohoku/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/specfemtohoku/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/153300296&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-This movie shows the seismic wave field in the Earth for two hours after the Tohoku Magnitude 9.0 earthquake on March 11, 2011. The sounds are real seismic data taken from 8 seismometers on a great circle around the globe, and sped up into the sonic range. The first two sequences are filtered to emphasize surface waves and the second two filtered to emphasize body waves. The simulation was performed by Daniel Peter using SPECFEM3D and rendered with ``yt&#39;&#39; (
-&lt;a href=&#34;http://www.yt-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;yt-project.org&lt;/a&gt;), by Matt Turk. Concept and design by Ben Holtzman and Jason Candler.&lt;/p&gt;
-&lt;p&gt;Ben Holtzman, Matt Turk, Jason Candler. CC seismicsoundlab.org&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/specfemtohoku/</guid>
+      <description>This movie shows the seismic wave field in the Earth for two hours after the Tohoku Magnitude 9.0 earthquake on March 11, 2011. The sounds are real seismic data taken from 8 seismometers on a great circle around the globe, and sped up into the sonic range. The first two sequences are filtered to emphasize surface waves and the second two filtered to emphasize body waves. The simulation was performed by Daniel Peter using SPECFEM3D and rendered with ``yt&amp;rdquo; (yt-project.</description>
     </item>
     
     <item>
       <title>7 Years of Earthquakes: California</title>
-      <link>https://seismicsoundlab.github.io/movies/catalog7years_cali/</link>
+      <link>/movies/catalog7years_cali/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/catalog7years_cali/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/185877211&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-This movie shows earthquakes from California larger than Magnitude 2, in the years between 2001-2007. The Magnitude 6.2 San Simeon and Magnitude 6.0 Parkfield earthquakes are clear, along with their many aftershocks. The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules:&lt;br&gt;
-Key: 
-&lt;a href=&#34;https://vimeo.com/153547572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vimeo.com/153547572&lt;/a&gt;.&lt;br&gt;
-The sound is generated by adding to the sound track tiny earthquake sounds, as described by that link.&lt;br&gt;
-The data comes from the ANSS catalog of the US Geological Survey, accessible from here: 
-&lt;a href=&#34;http://quake.geo.berkeley.edu/anss/catalog-search.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quake.geo.berkeley.edu/anss/catalog-search.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ben Holtzman, Douglas Repetto, Jason Candler, Nolan Lem. CC licence seismicsoundlab.org .&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/2_tectoniceqs/&#34;&gt;Tectonic Earthquakes: Patterns in Space and Time&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/catalog7years_cali/</guid>
+      <description>This movie shows earthquakes from California larger than Magnitude 2, in the years between 2001-2007. The Magnitude 6.2 San Simeon and Magnitude 6.0 Parkfield earthquakes are clear, along with their many aftershocks. The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules:
+Key: vimeo.com/153547572.
+The sound is generated by adding to the sound track tiny earthquake sounds, as described by that link.</description>
     </item>
     
     <item>
       <title>7 Years of Earthquakes: Caribbean</title>
-      <link>https://seismicsoundlab.github.io/movies/catalog7years_caribbean/</link>
+      <link>/movies/catalog7years_caribbean/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/catalog7years_caribbean/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/153547570&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-This movie shows earthquakes in the Caribbean region larger than Magnitude 3.5 (about 8,000 events), in the years between Jan. 1, 2008 - Dec. 31, 2014. The Magnitude 7.0 Haiti earthquake was on January 12, 2010. This movie covers same time window and distance in latitude (but not longitude) as the movie on the Japan region and Tohoku Mag9.0 earthquake: 
-&lt;a href=&#34;https://vimeo.com/153547571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vimeo.com/153547571&lt;/a&gt;.&lt;br&gt;
-The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules:&lt;br&gt;
-Key: 
-&lt;a href=&#34;https://vimeo.com/153547572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vimeo.com/153547572&lt;/a&gt;.&lt;br&gt;
-The sound is generated by adding to the sound track tiny earthquake sounds, as described by that link.&lt;br&gt;
-The data comes from the ANSS catalog of the US Geological Survey, accessible from here: 
-&lt;a href=&#34;http://www.quake.geo.berkeley.edu/anss/catalog-search.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quake.geo.berkeley.edu/anss/catalog-search.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ben Holtzman, Douglas Repetto, Jason Candler, Nolan Lem. CC licence seismicsoundlab.org .&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/2_tectoniceqs/&#34;&gt;Tectonic Earthquakes: Patterns in Space and Time&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/catalog7years_caribbean/</guid>
+      <description>This movie shows earthquakes in the Caribbean region larger than Magnitude 3.5 (about 8,000 events), in the years between Jan. 1, 2008 - Dec. 31, 2014. The Magnitude 7.0 Haiti earthquake was on January 12, 2010. This movie covers same time window and distance in latitude (but not longitude) as the movie on the Japan region and Tohoku Mag9.0 earthquake: vimeo.com/153547571.
+The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules:</description>
     </item>
     
     <item>
       <title>7 Years of Earthquakes: Japan</title>
-      <link>https://seismicsoundlab.github.io/movies/catalog7years_japan/</link>
+      <link>/movies/catalog7years_japan/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/catalog7years_japan/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/153547571&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-This movie shows earthquakes from Japan larger than Magnitude 3.5 (more than 10,000 events), in the years between Jan. 1, 2008 - Dec. 31, 2014. The Magnitude 9.0 Tohoku-oki earthquake was on March 11, 2011 (note the title bar in the movie says 2012, which is incorrect!). This is the same time window and distance in latitude (but not longitude) as the movie on the Caribbean and Haiti M7.0 earthquake: Haiti: 
-&lt;a href=&#34;https://vimeo.com/153547570&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vimeo.com/153547570&lt;/a&gt;. The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules:&lt;br&gt;
-Key: 
-&lt;a href=&#34;https://vimeo.com/153547572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vimeo.com/153547572&lt;/a&gt; .&lt;br&gt;
-The sound is generated by adding to the sound track tiny earthquake sounds, as described by that link.&lt;br&gt;
-The data comes from the ANSS catalog of the US Geological Survey, accessible from here: 
-&lt;a href=&#34;http://www.quake.geo.berkeley.edu/anss/catalog-search.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quake.geo.berkeley.edu/anss/catalog-search.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ben Holtzman, Douglas Repetto, Jason Candler, Nolan Lem. CC licence seismicsoundlab.org .&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/2_tectoniceqs/&#34;&gt;Tectonic Earthquakes: Patterns in Space and Time&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/catalog7years_japan/</guid>
+      <description>This movie shows earthquakes from Japan larger than Magnitude 3.5 (more than 10,000 events), in the years between Jan. 1, 2008 - Dec. 31, 2014. The Magnitude 9.0 Tohoku-oki earthquake was on March 11, 2011 (note the title bar in the movie says 2012, which is incorrect!). This is the same time window and distance in latitude (but not longitude) as the movie on the Caribbean and Haiti M7.</description>
     </item>
     
     <item>
       <title>7 Years of Earthquakes: Sumatra</title>
-      <link>https://seismicsoundlab.github.io/movies/catalog7years_sumatra/</link>
+      <link>/movies/catalog7years_sumatra/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/catalog7years_sumatra/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/185877229&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-This movie shows earthquakes from the Sumatra region larger than Magnitude 3.5 (more than 10,000 events), in the years between [ ]. The Magnitude 9.2 Sumatra earthquake was on December 26, 2004. The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules:&lt;br&gt;
-Key: 
-&lt;a href=&#34;https://vimeo.com/153547572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vimeo.com/153547572&lt;/a&gt; .&lt;br&gt;
-The sound is generated by adding to the sound track tiny earthquake sounds, as described by that link.&lt;br&gt;
-The data comes from the ANSS catalog of the US Geological Survey, accessible from here: 
-&lt;a href=&#34;http://quake.geo.berkeley.edu/anss/catalog-search.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quake.geo.berkeley.edu/anss/catalog-search.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ben Holtzman, Douglas Repetto, Jason Candler, Nolan Lem. CC licence seismicsoundlab.org .&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/2_tectoniceqs/&#34;&gt;Tectonic Earthquakes: Patterns in Space and Time&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/catalog7years_sumatra/</guid>
+      <description>This movie shows earthquakes from the Sumatra region larger than Magnitude 3.5 (more than 10,000 events), in the years between [ ]. The Magnitude 9.2 Sumatra earthquake was on December 26, 2004. The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules:
+Key: vimeo.com/153547572 .
+The sound is generated by adding to the sound track tiny earthquake sounds, as described by that link.</description>
     </item>
     
     <item>
       <title>7 Years of Earthquakes: Western North America</title>
-      <link>https://seismicsoundlab.github.io/movies/catalog7years_westernna/</link>
+      <link>/movies/catalog7years_westernna/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/catalog7years_westernna/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/185877244&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-This movie shows earthquakes from Western North America larger than Magnitude 3.5, in the years between Jan. 1, 2008 - Dec. 31, 2014. The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules:
-Key: 
-&lt;a href=&#34;https://vimeo.com/153547572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vimeo.com/153547572&lt;/a&gt; .&lt;br&gt;
-The sound is generated by adding to the sound track tiny earthquake sounds, as described by that link.&lt;br&gt;
-The data comes from the ANSS catalog of the US Geological Survey, accessible from here: 
-&lt;a href=&#34;http://quake.geo.berkeley.edu/anss/catalog-search.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quake.geo.berkeley.edu/anss/catalog-search.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ben Holtzman, Douglas Repetto, Jason Candler, Nolan Lem. CC licence seismicsoundlab.org .&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/2_tectoniceqs/&#34;&gt;Tectonic Earthquakes: Patterns in Space and Time&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/catalog7years_westernna/</guid>
+      <description>This movie shows earthquakes from Western North America larger than Magnitude 3.5, in the years between Jan. 1, 2008 - Dec. 31, 2014. The dot size is (non-linearly) proportional to magnitude and the color is proportional to depth according to these rules: Key: vimeo.com/153547572 .
+The sound is generated by adding to the sound track tiny earthquake sounds, as described by that link.
+The data comes from the ANSS catalog of the US Geological Survey, accessible from here: quake.</description>
     </item>
     
     <item>
       <title>Acoustic Emissions</title>
-      <link>https://seismicsoundlab.github.io/movies/acousticemissions/</link>
+      <link>/movies/acousticemissions/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/acousticemissions/</guid>
-      <description>&lt;iframe width=&#34;100%&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/462371277&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/seismicsoundlab&#34; title=&#34;seismicsoundlab&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;seismicsoundlab&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/seismicsoundlab/3rocks_acousticemissions&#34; title=&#34;3rocks_AcousticEmissions&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;3rocks_AcousticEmissions&lt;/a&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br&gt;
-Acoustic emissions from three different rock types deformed in the laboratory(in MHz frequency range, slowed down to audible).&lt;br&gt;
-Deformation experiments: Alexandre Schubnel&amp;rsquo;s lab, ENS Paris&lt;br&gt;
-Sonification: Ben Holtzman and Arthur Paté&lt;br&gt;
-Narration: Martin Pratt&lt;br&gt;
-Made for the 2017 Open House at Lamont Doherty Earth Observatory, Columbia University&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/4_humaninducedeqs/&#34;&gt;Human-induced Earthquakes and Energy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/acousticemissions/</guid>
+      <description> seismicsoundlab · 3rocks_AcousticEmissions
+
+Acoustic emissions from three different rock types deformed in the laboratory(in MHz frequency range, slowed down to audible).
+Deformation experiments: Alexandre Schubnel&amp;rsquo;s lab, ENS Paris
+Sonification: Ben Holtzman and Arthur Paté
+Narration: Martin Pratt
+Made for the 2017 Open House at Lamont Doherty Earth Observatory, Columbia University
+Related Learning Units  Human-induced Earthquakes and Energy  </description>
     </item>
     
     <item>
       <title>Ambient Seismic Noise</title>
-      <link>https://seismicsoundlab.github.io/movies/ambientnoise/</link>
+      <link>/movies/ambientnoise/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/ambientnoise/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/153300829&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-This movie is about a cutting edge topic in seismology: the study of the ambient noise field in the Earth. We show the average ocean wave height in the northern hemisphere oceans, and you hear the ambient seismic noise for the entire year of 2012, in which Hurricane Sandy occurred in the Atlantic ocean. One year is compressed to 4 minutes and 53 seconds.&lt;/p&gt;
-&lt;p&gt;Why do we juxtapose this animation with this sound? In every seismogram (data recorded at a seismometer), there are constant small amplitude vibrations at 7-10 seconds period. These vibrations, we now know, are created by ocean waves that push down on the seafloor and generate vibrations that travel throughout the solid earth. The images in this movie are the average ocean wave height (data from NOAA, Tolman 2009 and Ardhuin et al., 2011) measured by satellites globally every 3 hours. The sound is simply the seismic data from two seismometers (red dots) in the northeastern US and central Japan, filtered at a band that includes the noise but suppresses the large amplitude earthquakes (around 7-10 seconds).&lt;/p&gt;
-&lt;p&gt;Lucia Gualtieri, Ben Holtzman, Douglas Repetto, Jason Candler CC licence seismicsoundlab.org&lt;/p&gt;
-&lt;!-- ## Related Learning Units
-* [Listening to Earthquakes](../../learningunits/1_primer/)
-* [NAME OF UNIT](relative/path/to/unit) --&gt;
-</description>
+      
+      <guid>/movies/ambientnoise/</guid>
+      <description>This movie is about a cutting edge topic in seismology: the study of the ambient noise field in the Earth. We show the average ocean wave height in the northern hemisphere oceans, and you hear the ambient seismic noise for the entire year of 2012, in which Hurricane Sandy occurred in the Atlantic ocean. One year is compressed to 4 minutes and 53 seconds.
+Why do we juxtapose this animation with this sound?</description>
     </item>
     
     <item>
       <title>Earth&#39;s Free Oscillations</title>
-      <link>https://seismicsoundlab.github.io/movies/normalmodes/</link>
+      <link>/movies/normalmodes/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/normalmodes/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-Audiovisual demonstration where traveling waves are generated by the sum of many standing waves (normal modes) at the Earth&amp;rsquo;s surface.&lt;/p&gt;
-&lt;p&gt;VIDEO: shows 9 of Earth&amp;rsquo;s observable lowest frequency normal modes (color rings) with tones corresponding to the center frequency of each mode. Higher frequency modes are represented by cool colors and low frequencies by warm colors. The outer ring (white) represents the sum of the colored rings. Can you spot the waves traveling through the ring?&lt;/p&gt;
-&lt;p&gt;AUDIO: The loudness of each tone is modulated by its amplitude envelope. Notice how the chord evolves over time as the higher frequencies die away.&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/normalmodes/</guid>
+      <description>Audiovisual demonstration where traveling waves are generated by the sum of many standing waves (normal modes) at the Earth&amp;rsquo;s surface.
+VIDEO: shows 9 of Earth&amp;rsquo;s observable lowest frequency normal modes (color rings) with tones corresponding to the center frequency of each mode. Higher frequency modes are represented by cool colors and low frequencies by warm colors. The outer ring (white) represents the sum of the colored rings.</description>
     </item>
     
     <item>
       <title>Geysers Geothermal Field, California</title>
-      <link>https://seismicsoundlab.github.io/movies/geysers/</link>
+      <link>/movies/geysers/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/geysers/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/259106314&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-Geysers catalog movies, before and after machine listening&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/4_humaninducedeqs/&#34;&gt;Human-induced earthquakes and Energy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/5_geysers/&#34;&gt;Geysers and Volcanoes: Scaling by Analogy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/geysers/</guid>
+      <description>   
+Geysers catalog movies, before and after machine listening&amp;hellip;
+Related Learning Units  Human-induced earthquakes and Energy Geysers and Volcanoes: Scaling by Analogy  </description>
     </item>
     
     <item>
       <title>Ground Motions for Haiti (M7.0) and Tohoku (M9.0)</title>
-      <link>https://seismicsoundlab.github.io/movies/gmv_haiti_tohoku/</link>
+      <link>/movies/gmv_haiti_tohoku/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/gmv_haiti_tohoku/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/187740441&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-Magnitude 7.0 Haiti 2010, Magnitude 9.0 Tohoku 2011. Data from the Transportable Array (NSF Earthscope Project) from IRIS. Based on ground motion visualization originally by Chuck Ammon (
-&lt;a href=&#34;http://ds.iris.edu/ds/products/usarraygmv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ds.iris.edu/ds/products/usarraygmv/&lt;/a&gt;). Made in Processing by Martin Pratt.&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/gmv_haiti_tohoku/</guid>
+      <description>   
+Magnitude 7.0 Haiti 2010, Magnitude 9.0 Tohoku 2011. Data from the Transportable Array (NSF Earthscope Project) from IRIS. Based on ground motion visualization originally by Chuck Ammon (ds.iris.edu/ds/products/usarraygmv/). Made in Processing by Martin Pratt.
+Related Learning Units  Listening to Earthquakes  </description>
     </item>
     
     <item>
       <title>Ground Motions from Below: Haiti M7.0</title>
-      <link>https://seismicsoundlab.github.io/movies/gmv_haiti/</link>
+      <link>/movies/gmv_haiti/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/gmv_haiti/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/187203773&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;\&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/gmv_haiti/</guid>
+      <description>   
+Related Learning Units  Listening to Earthquakes  </description>
     </item>
     
     <item>
       <title>Human-induced Earthquakes in Oklahoma</title>
-      <link>https://seismicsoundlab.github.io/movies/oklahoma/</link>
+      <link>/movies/oklahoma/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/oklahoma/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/186029718&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;\&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/4_humaninducedeqs/&#34;&gt;Human-induced earthquakes and Energy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/oklahoma/</guid>
+      <description>   
+Related Learning Units  Human-induced earthquakes and Energy  </description>
     </item>
     
     <item>
       <title>Hurricanes</title>
-      <link>https://seismicsoundlab.github.io/movies/hurricanes/</link>
+      <link>/movies/hurricanes/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/hurricanes/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/287668309&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;\&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/6_climate/&#34;&gt;Climate Change&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/hurricanes/</guid>
+      <description>   
+Related Learning Units  Climate Change  </description>
     </item>
     
     <item>
       <title>Kilauea, HI (2000-2010)</title>
-      <link>https://seismicsoundlab.github.io/movies/kilauea2000-2010/</link>
+      <link>/movies/kilauea2000-2010/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/kilauea2000-2010/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/288805184&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-This movie is a work in progress!
-10 years of data from Kilauea volcano, from 2000-2010. We produced this (collaboration with Leif Karlstrom) about a week before the huge eruptions of 2018 started!&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/3_volcanoesandeqs/&#34;&gt;Volcanoes and Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/kilauea2000-2010/</guid>
+      <description>   
+This movie is a work in progress! 10 years of data from Kilauea volcano, from 2000-2010. We produced this (collaboration with Leif Karlstrom) about a week before the huge eruptions of 2018 started!
+Related Learning Units  Volcanoes and Earthquakes  </description>
     </item>
     
     <item>
       <title>Kilauea, HI 2018</title>
-      <link>https://seismicsoundlab.github.io/movies/kilauea2018/</link>
+      <link>/movies/kilauea2018/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/kilauea2018/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/368839934&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;\&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/3_volcanoesandeqs/&#34;&gt;Volcanoes and Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/kilauea2018/</guid>
+      <description>   
+Related Learning Units  Volcanoes and Earthquakes  </description>
     </item>
     
     <item>
       <title>Lone Star Geyser, Yellowstone</title>
-      <link>https://seismicsoundlab.github.io/movies/lonestargeyser/</link>
+      <link>/movies/lonestargeyser/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/lonestargeyser/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/379787732&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;\&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/5_geysers/&#34;&gt;Geysers and Volcanoes: Scaling by Analogy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/lonestargeyser/</guid>
+      <description>    by Anna Barth, Leif Karlstrom and Ben Holtzman, with Arthur Pate and Avinash Nayak, described in an article in press in the Computer Music Journal. Related Learning Units  Geysers and Volcanoes: Scaling by Analogy  </description>
     </item>
     
     <item>
       <title>Seismic Tomography</title>
-      <link>https://seismicsoundlab.github.io/movies/axisemtomography/</link>
+      <link>/movies/axisemtomography/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/axisemtomography/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/226458465&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-Seismic wave field contorted by cold fast slabs and warm slow plumes&amp;hellip; Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).\
-
-&lt;a href=&#34;http://seis.earth.ox.ac.uk/axisem/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;seis.earth.ox.ac.uk/axisem/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/axisemtomography/</guid>
+      <description>   
+Seismic wave field contorted by cold fast slabs and warm slow plumes&amp;hellip; Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).\ seis.earth.ox.ac.uk/axisem/
+Related Learning Units  Listening to Earthquakes  </description>
     </item>
     
     <item>
       <title>Seismic Wave Propagation (2D)</title>
-      <link>https://seismicsoundlab.github.io/movies/axisem2d/</link>
+      <link>/movies/axisem2d/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/axisem2d/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/226458561&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).&lt;br&gt;
-
-&lt;a href=&#34;http://seis.earth.ox.ac.uk/axisem/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;seis.earth.ox.ac.uk/axisem/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/axisem2d/</guid>
+      <description>   
+Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).
+seis.earth.ox.ac.uk/axisem/
+Related Learning Units  Listening to Earthquakes  </description>
     </item>
     
     <item>
       <title>Seismic Wave Propagation (3D)</title>
-      <link>https://seismicsoundlab.github.io/movies/axisem3d/</link>
+      <link>/movies/axisem3d/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/axisem3d/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/226458580&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).\
-
-&lt;a href=&#34;http://seis.earth.ox.ac.uk/axisem/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;seis.earth.ox.ac.uk/axisem/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/1_primer/&#34;&gt;Listening to Earthquakes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/axisem3d/</guid>
+      <description>   
+Made by Simon Stahler and Tarje Nissen Meyer, using their code AXISEM (no sound).\ seis.earth.ox.ac.uk/axisem/
+Related Learning Units  Listening to Earthquakes  </description>
     </item>
     
     <item>
       <title>Southeastern U.S. (2003-2016)</title>
-      <link>https://seismicsoundlab.github.io/movies/seus2003-2016/</link>
+      <link>/movies/seus2003-2016/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://seismicsoundlab.github.io/movies/seus2003-2016/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/200115668&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;
-DETAILED MOVIE DESCRIPTION GOES HERE&lt;/p&gt;
-&lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/2_tectoniceqs/&#34;&gt;Tectonic Earthquakes: Patterns in space and time&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../learningunits/4_humaninducedeqs/&#34;&gt;Human-induced earthquakes and Energy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      
+      <guid>/movies/seus2003-2016/</guid>
+      <description>   
+DETAILED MOVIE DESCRIPTION GOES HERE
+Related Learning Units  Tectonic Earthquakes: Patterns in space and time Human-induced earthquakes and Energy  </description>
     </item>
     
   </channel>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Waves on </title>
+    <link>/tags/waves/</link>
+    <description>Recent content in Waves on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Oct 2020 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/waves/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Listening to Earthquakes</title>
+      <link>/learningunits/1_primer/</link>
+      <pubDate>Fri, 16 Oct 2020 06:00:00 +0000</pubDate>
+      
+      <guid>/learningunits/1_primer/</guid>
+      <description>To start with, here is a famous recording to illustrate the kinds of sounds we actually hear during an earthquake, from the 1976 Friuli earthquake in Italy:   A boy was transferring his Pink Floyd record to cassette by holding a microphone up to the speaker connected to the turntable. When the first wave arrived, the P-wave (or compressional wave), the needle jumped. Then the second, larger set of waves arrived, the S-waves (or shear waves).</description>
+    </item>
+    
+  </channel>
+</rss>

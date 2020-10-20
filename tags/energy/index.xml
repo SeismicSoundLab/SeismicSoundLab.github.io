@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energy on </title>
+    <link>/tags/energy/</link>
+    <description>Recent content in Energy on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/energy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Geysers Geothermal Field, California</title>
+      <link>/movies/geysers/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/geysers/</guid>
+      <description>   
+Geysers catalog movies, before and after machine listening&amp;hellip;
+Related Learning Units  Human-induced earthquakes and Energy Geysers and Volcanoes: Scaling by Analogy  </description>
+    </item>
+    
+    <item>
+      <title>Human-induced Earthquakes in Oklahoma</title>
+      <link>/movies/oklahoma/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/oklahoma/</guid>
+      <description>   
+Related Learning Units  Human-induced earthquakes and Energy  </description>
+    </item>
+    
+    <item>
+      <title>Southeastern U.S. (2003-2016)</title>
+      <link>/movies/seus2003-2016/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/seus2003-2016/</guid>
+      <description>   
+DETAILED MOVIE DESCRIPTION GOES HERE
+Related Learning Units  Tectonic Earthquakes: Patterns in space and time Human-induced earthquakes and Energy  </description>
+    </item>
+    
+  </channel>
+</rss>

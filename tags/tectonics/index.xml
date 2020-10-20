@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tectonics on </title>
+    <link>/tags/tectonics/</link>
+    <description>Recent content in Tectonics on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Oct 2020 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tectonics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tectonic Earthquakes: Patterns in space and time</title>
+      <link>/learningunits/2_tectoniceqs/</link>
+      <pubDate>Fri, 16 Oct 2020 05:00:00 +0000</pubDate>
+      
+      <guid>/learningunits/2_tectoniceqs/</guid>
+      <description>First, plate motions (plate tectonics) on Earth is driven by the convection of the deep interior, or mantle. Here&amp;rsquo;s a movie of convection over two billion years, BILLION!, sped up to play in 36 seconds:
+  If we slow way down, we can look at and hear something like what those plates sound like as they grind past each other and cause earthquakes. To do so, we animate the data with sound, using these rules to generate these movies of ``earthquake catalogs&amp;rdquo;, or lists of earthquakes by location, date, magnitude, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

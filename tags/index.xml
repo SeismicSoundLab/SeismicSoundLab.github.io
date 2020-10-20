@@ -1,16 +1,167 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Seismic Sound Lab</title>
-    <link>https://seismicsoundlab.github.io/tags/</link>
-      <atom:link href="https://seismicsoundlab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2020 06:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://seismicsoundlab.github.io/images/icon_hu5ee8f58533be3c204bc71859545a1f01_314432_512x512_fill_lanczos_center_2.png</url>
-      <title>Tags</title>
-      <link>https://seismicsoundlab.github.io/tags/</link>
-    </image>
+    <title>Tags on </title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Oct 2020 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Catalog Movies</title>
+      <link>/tags/catalog-movies/</link>
+      <pubDate>Sat, 10 Oct 2020 10:00:00 +0000</pubDate>
+      
+      <guid>/tags/catalog-movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate</title>
+      <link>/tags/climate/</link>
+      <pubDate>Fri, 16 Oct 2020 02:00:00 +0000</pubDate>
+      
+      <guid>/tags/climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earthquake Source</title>
+      <link>/tags/earthquake-source/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/earthquake-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earthquakes</title>
+      <link>/tags/earthquakes/</link>
+      <pubDate>Fri, 16 Oct 2020 06:00:00 +0000</pubDate>
+      
+      <guid>/tags/earthquakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy</title>
+      <link>/tags/energy/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fracking</title>
+      <link>/tags/fracking/</link>
+      <pubDate>Fri, 16 Oct 2020 03:00:00 +0000</pubDate>
+      
+      <guid>/tags/fracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geysers</title>
+      <link>/tags/geysers/</link>
+      <pubDate>Fri, 16 Oct 2020 01:00:00 +0000</pubDate>
+      
+      <guid>/tags/geysers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Induced</title>
+      <link>/tags/human-induced/</link>
+      <pubDate>Fri, 16 Oct 2020 03:00:00 +0000</pubDate>
+      
+      <guid>/tags/human-induced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hurricanes</title>
+      <link>/tags/hurricanes/</link>
+      <pubDate>Fri, 16 Oct 2020 02:00:00 +0000</pubDate>
+      
+      <guid>/tags/hurricanes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kilauea</title>
+      <link>/tags/kilauea/</link>
+      <pubDate>Fri, 16 Oct 2020 04:00:00 +0000</pubDate>
+      
+      <guid>/tags/kilauea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plate Tectonics</title>
+      <link>/tags/plate-tectonics/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/plate-tectonics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonification</title>
+      <link>/tags/sonification/</link>
+      <pubDate>Fri, 16 Oct 2020 06:00:00 +0000</pubDate>
+      
+      <guid>/tags/sonification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tectonics</title>
+      <link>/tags/tectonics/</link>
+      <pubDate>Fri, 16 Oct 2020 05:00:00 +0000</pubDate>
+      
+      <guid>/tags/tectonics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volcano</title>
+      <link>/tags/volcano/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/volcano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volcanoes</title>
+      <link>/tags/volcanoes/</link>
+      <pubDate>Fri, 16 Oct 2020 04:00:00 +0000</pubDate>
+      
+      <guid>/tags/volcanoes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave Propagation</title>
+      <link>/tags/wave-propagation/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wave-propagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waves</title>
+      <link>/tags/waves/</link>
+      <pubDate>Fri, 16 Oct 2020 06:00:00 +0000</pubDate>
+      
+      <guid>/tags/waves/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
