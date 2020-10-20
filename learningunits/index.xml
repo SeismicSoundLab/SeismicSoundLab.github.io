@@ -1,69 +1,229 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learningunits on </title>
-    <link>/learningunits/</link>
-    <description>Recent content in Learningunits on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Oct 2020 06:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/learningunits/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Learningunits | Seismic Sound Lab</title>
+    <link>https://seismicsoundlab.github.io/learningunits/</link>
+      <atom:link href="https://seismicsoundlab.github.io/learningunits/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learningunits</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2020 06:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://seismicsoundlab.github.io/images/icon_hu5ee8f58533be3c204bc71859545a1f01_314432_512x512_fill_lanczos_center_2.png</url>
+      <title>Learningunits</title>
+      <link>https://seismicsoundlab.github.io/learningunits/</link>
+    </image>
     
     <item>
       <title>Listening to Earthquakes</title>
-      <link>/learningunits/1_primer/</link>
+      <link>https://seismicsoundlab.github.io/learningunits/1_primer/</link>
       <pubDate>Fri, 16 Oct 2020 06:00:00 +0000</pubDate>
-      
-      <guid>/learningunits/1_primer/</guid>
-      <description>To start with, here is a famous recording to illustrate the kinds of sounds we actually hear during an earthquake, from the 1976 Friuli earthquake in Italy:   A boy was transferring his Pink Floyd record to cassette by holding a microphone up to the speaker connected to the turntable. When the first wave arrived, the P-wave (or compressional wave), the needle jumped. Then the second, larger set of waves arrived, the S-waves (or shear waves).</description>
+      <guid>https://seismicsoundlab.github.io/learningunits/1_primer/</guid>
+      <description>&lt;!-- Insert vimeo video using its id --&gt;
+&lt;p&gt;To start with, here is a famous recording to illustrate the kinds of sounds we actually hear during an earthquake, from the 1976 Friuli earthquake in Italy:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/UODyP9qCY_g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+A boy was transferring his Pink Floyd record to cassette by holding a microphone up to the speaker connected to the turntable. When the first wave arrived, the P-wave (or compressional wave), the needle jumped. Then the second, larger set of waves arrived, the S-waves (or shear waves). These caused the needle to scratch across the record and then bounce off&amp;hellip; and then people realize what is happening and start to panic. But the sounds that you hear are secondary sounds&amp;ndash; windows and lights rattling, pieces of concrete, rock and wood rumbling, etc. The actual seismic waves are much lower frequency.&lt;/p&gt;
+&lt;p&gt;[add image of the frequency bands]&lt;/p&gt;
+&lt;p&gt;On the screen, seismic waves look just like recorded sound waves. To hear them, we speed them up by simply changing the &amp;ldquo;sampling rate&amp;rdquo;, the time between each recorded data point, and then make a sound file. The range of frequencies we can hear is much narrower than the range of frequencies in seismic data, so we can shift different parts of the data into our range of hearing by speeding it up by different amounts. In the next sequence of movies, we will be listening to increasingly low frequencies.&lt;/p&gt;
+&lt;p&gt;Starting with data recorded near the earthquake location, here is a wave propagating across Japan, from the 2007 Niigata earthquake.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/212502551&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+[For more info&amp;hellip; ]&lt;/p&gt;
+&lt;p&gt;Here is a movie (with no sound) to show you how those waves look when they travel through the Earth&amp;rsquo;s interior, and how the data recorded at two seismometers look very different, because they are sampling that wave field at different spots on the surface:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/226458561&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;And here&amp;rsquo;s a zoom in to how we listen to earthquakes, and how two different earthquakes can sound very different, when only one aspect is changing, in this case, the depth.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/467983541&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;This movie (part of our SeismoDome show at the Hayden Planetarium) couples sonified data from 8 seismometers around the globe to a 3D simulation of seismic waves propagating through and around the planet (body and surface waves respectively), after the Tohoku Magnitude 9.0 earthquake in Japan, in 2011:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/153300296&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;And here is a simulation of the even longer wavelength, lower frequency waves that occur days after a very large earthquake, called the free oscillations. There are many different modes of these kinds of waves at different frequencies, and you can see how they can add to each other to make it look like there are moving waves (called surface waves, as you saw in the previous movie). Eventually they stop moving, and the Earth just rings like a bell:
+Free Oscillations:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Tectonic Earthquakes: Patterns in space and time</title>
-      <link>/learningunits/2_tectoniceqs/</link>
+      <link>https://seismicsoundlab.github.io/learningunits/2_tectoniceqs/</link>
       <pubDate>Fri, 16 Oct 2020 05:00:00 +0000</pubDate>
-      
-      <guid>/learningunits/2_tectoniceqs/</guid>
-      <description>First, plate motions (plate tectonics) on Earth is driven by the convection of the deep interior, or mantle. Here&amp;rsquo;s a movie of convection over two billion years, BILLION!, sped up to play in 36 seconds:
-  If we slow way down, we can look at and hear something like what those plates sound like as they grind past each other and cause earthquakes. To do so, we animate the data with sound, using these rules to generate these movies of ``earthquake catalogs&amp;rdquo;, or lists of earthquakes by location, date, magnitude, etc.</description>
+      <guid>https://seismicsoundlab.github.io/learningunits/2_tectoniceqs/</guid>
+      <description>&lt;p&gt;First, plate motions (plate tectonics) on Earth is driven by the convection of the deep interior, or mantle. Here&amp;rsquo;s a movie of convection over two billion years, BILLION!, sped up to play in 36 seconds:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/194834420&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If we slow way down, we can look at and hear something like what those plates sound like as they grind past each other and cause earthquakes. To do so, we animate the data with sound, using these rules to generate these movies of ``earthquake catalogs&#39;&#39;, or lists of earthquakes by location, date, magnitude, etc.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/153547572&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Seven years of earthquakes in California:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/185877211&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Seven years of earthquakes in the Carribean (including the 2010 Haiti Earthquake):&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/153547570&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Seven years of earthquakes in Japan (including the 2011 Tohoku Earthquake, Magnitude 9.0):&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/153547571&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;and Seven years of earthquakes in Sumatra (including the 2004 Boxing Day earthquake, Magnitude 9.2):&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/185877229&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And in the Andes, as the Pacific plate subducts beneath Chile, in 3D (made by Martin Pratt):&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/236239313&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And the grand finale: 20 years of earthquakes on the whole planet (made by Joachim Gossmann):
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/153653264&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Volcanoes and Earthquakes</title>
-      <link>/learningunits/3_volcanoesandeqs/</link>
+      <link>https://seismicsoundlab.github.io/learningunits/3_volcanoesandeqs/</link>
       <pubDate>Fri, 16 Oct 2020 04:00:00 +0000</pubDate>
-      
-      <guid>/learningunits/3_volcanoesandeqs/</guid>
-      <description>Every volcano has a wide range of processes going on inside that generate seismic waves. Some of these are &amp;lsquo;normal&amp;rsquo; earthquakes, some are tremors associated with magma moving around in its plumbing. We will build more movies of other volcanoes soon, but for now, here is our rough draft of catalogs from the Kilauea eruption of 2018. Listen for the cyclic patterns in the following movie. We have never seen this kind of pattern in an eruption, and are working to understand how this happens:</description>
+      <guid>https://seismicsoundlab.github.io/learningunits/3_volcanoesandeqs/</guid>
+      <description>&lt;p&gt;Every volcano has a wide range of processes going on inside that generate seismic waves. Some of these are &amp;lsquo;normal&amp;rsquo; earthquakes, some are tremors associated with magma moving around in its plumbing. We will build more movies of other volcanoes soon, but for now, here is our rough draft of catalogs from the Kilauea eruption of 2018. Listen for the cyclic patterns in the following movie. We have never seen this kind of pattern in an eruption, and are working to understand how this happens:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/368839934&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>
       <title>Human-induced earthquakes and Energy</title>
-      <link>/learningunits/4_humaninducedeqs/</link>
+      <link>https://seismicsoundlab.github.io/learningunits/4_humaninducedeqs/</link>
       <pubDate>Fri, 16 Oct 2020 03:00:00 +0000</pubDate>
-      
-      <guid>/learningunits/4_humaninducedeqs/</guid>
-      <description>In some cases, hydrocarbon and geothermal heat extraction processes cause earthquakes. Listening to various settings where these occur clearly conveys the differences between human-induced and tectonic earthquakes, and raises many interesting societal questions.
-Wastewater from shale gas extraction by &amp;ldquo;fracking&amp;rdquo; is toxic enough that most states will not allow it to be stored or disposed of in-state. Oklahoma and Ohio permitted wastewater to be injected deep in the ground. The injection occurs at high pressure so that the fluid flow deep into some deep layer in the crust and will stay.</description>
+      <guid>https://seismicsoundlab.github.io/learningunits/4_humaninducedeqs/</guid>
+      <description>&lt;!-- Insert vimeo video using its id --&gt;
+&lt;p&gt;In some cases, hydrocarbon and geothermal heat extraction processes cause earthquakes. Listening to various settings where these occur clearly conveys the differences between human-induced and tectonic earthquakes, and raises many interesting societal questions.&lt;/p&gt;
+&lt;p&gt;Wastewater from shale gas extraction by &amp;ldquo;fracking&amp;rdquo; is toxic enough that most states will not allow it to be stored or disposed of in-state. Oklahoma and Ohio permitted wastewater to be injected deep in the ground. The injection occurs at high pressure so that the fluid flow deep into some deep layer in the crust and will stay.&lt;/p&gt;
+&lt;p&gt;[add crust block image here]&lt;/p&gt;
+&lt;p&gt;However, the fluid encountered some old faults that haven&amp;rsquo;t moved in millions of years. The pressurized fluid reactivates these old faults and causes earthquakes where there hadn&amp;rsquo;t been in our recorded history:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/186029718&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;While the earthquakes induced from injection of shale-gas extraction wastewater in Oklahoma are dangerous, the potentially much greater health risk comes from the toxicity of the injected fluids leaking into aquifers.Because this concern is more abstract and uncertain than earthquakes, it is effective for opponents to focus on the earthquakes.&lt;/p&gt;
+&lt;p&gt;However, the extraction of geothermal energy, a CO2-free resource, also produces earthquakes, but with minimal risk of groundwater contamination, and the scale is far smaller, in area and magnitude.&lt;/p&gt;
+&lt;p&gt;Here is a similar movie from The Geysers geothermal field in Northern California, the largest actively producing field in the world, generating about 800 MW of electricity:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/259106314&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;All energy production comes with costs and risks to society, but how do we focus our concerns on the proper ones?&lt;/p&gt;
+&lt;p&gt;[more coming soon]&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Climate Change</title>
-      <link>/learningunits/6_climate/</link>
+      <link>https://seismicsoundlab.github.io/learningunits/6_climate/</link>
       <pubDate>Fri, 16 Oct 2020 02:00:00 +0000</pubDate>
-      
-      <guid>/learningunits/6_climate/</guid>
-      <description>Solar insolation is a measure of how much of the sun’s energy hits the Earth’s surface. This energy drives the climate and weather of our planet. The seasons are caused by the planet’s tilt&amp;mdash; half of the planet is closer to the sun in Summer than in Winter. However, solar insolation itself can vary on timescales from tens to hundreds of thousands of years, as a result of changes in the planet’s tilt and the shape of its orbit.</description>
+      <guid>https://seismicsoundlab.github.io/learningunits/6_climate/</guid>
+      <description>&lt;p&gt;Solar insolation is a measure of how much of the sun’s energy hits the Earth’s surface. This energy drives the climate and weather of our planet.
+The seasons are caused by the planet’s tilt&amp;mdash; half of the planet is closer to the sun in Summer than in Winter. However, solar insolation itself can vary on timescales from tens to hundreds of thousands of years, as a result of changes in the planet’s tilt and the shape of its orbit. Carbon Dioxide (CO2) and other atmospheric gases vary in time because complex interactions among processes in the oceans, atmosphere and biosphere (life) affect the amounts of these gases that are stored in the air, ocean, and on land. Here is a movie of the variations of solar insolation and CO_2 over the last 800 thousand years:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/469625573&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As you can see and hear, something ridiculous happens right there at the end.
+Humans figured out how to extract carbon from the Earth&amp;rsquo;s crust in various forms and burn it for heat and power, and rapidly expanded our societies around it. In a geologic instant, we have put far more CO2 in our atmosphere than has ever existed over the past 800,000 years.&lt;/p&gt;
+&lt;p&gt;[include plot of various sources of human emissions of CO2.]&lt;/p&gt;
+&lt;p&gt;Now we zoom in to the last 270 years:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/467520973&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Zooming in on the last 270 years shows the scale of human carbon emissions, and the correlation between the levels of CO2 in the atmosphere and the yearly average global  temperatures. The difference between human emissions and atmospheric CO2 reflects how much carbon the oceans and biosphere can absorb, or buffer. We have diminished the capacity of the oceans and plants to absorb carbon in CO2, methane and other gases, increasing the strength of the greenhouse effect.&lt;/p&gt;
+&lt;p&gt;Feedbacks will emerge and changes in global weather patterns. While our best climate models incorporate an incredible level of complexity, we cannot fully predict what these changes will be, as the ocean/atmosphere/biosphere is still more complex than our most complex computer models.&lt;/p&gt;
+&lt;p&gt;Hurricanes are on the edge of that interface between weather and climate.
+Here is Owen Evans&#39; movie, made in collaboration with Chia-ying Lee at LDEO:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/287668309&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;2005 and 2017 had extremely large numbers of powerful hurricanes. In 2017, there was a storm so large that it blew past the highest category of 5. It broke apart into about 3 different very large hurricanes, Maria, Hugo and Irma. Because the movie is made from the category scale, our movie doesn&amp;rsquo;t really show how large that storm system was, but as the climate warms, these kinds of things are likely to happen more often.&lt;/p&gt;
+&lt;p&gt;[put in a graph showing number and intensity of hurricanes in the last 20 years, and some predictions.]&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Geysers and Volcanoes: Scaling by Analogy</title>
-      <link>/learningunits/5_geysers/</link>
+      <link>https://seismicsoundlab.github.io/learningunits/5_geysers/</link>
       <pubDate>Fri, 16 Oct 2020 01:00:00 +0000</pubDate>
-      
-      <guid>/learningunits/5_geysers/</guid>
-      <description>Geysers are hydrothermal features that episodically erupt liquid and vapor. The eruptions that we see at the surface are the culmination of a complex series of processes below the ground hidden from direct observation. But that doesn’t mean they are hidden entirely; we can monitor them with various sensors to record different aspects of the system. For example, a tilt meter can measure the inflation of the ground due to pressure build up before an eruption, and a seismometer can measure hydrothermal ‘tremor’, which tells us about the bubbling of the hot liquid.</description>
+      <guid>https://seismicsoundlab.github.io/learningunits/5_geysers/</guid>
+      <description>&lt;p&gt;Geysers are hydrothermal features that episodically erupt liquid and vapor. The eruptions that we see at the surface are the culmination of a complex series of processes below the ground hidden from direct observation. But that doesn’t mean they are hidden entirely; we can monitor them with various sensors to record different aspects of the system. For example, a tilt meter can measure the inflation of the ground due to pressure build up before an eruption, and a seismometer can measure hydrothermal ‘tremor’, which tells us about the bubbling of the hot liquid.&lt;/p&gt;
+&lt;p&gt;Geysers are relatively rare but where they do occur, it is often in clusters, such as at Yellowstone National Park. The following video explores monitoring data from Lone Star Geyser in Yellowstone National Park, which was collected in 2010 and 2014.&lt;/p&gt;
+&lt;p&gt;#(LONE STAR GEYSER VID)
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/379787732&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Geysers are often thought of as smaller scale analogs to volcanoes. Their ‘plumbing systems’ are much shallower than those of volcanoes, and they erupt far more regularly. While there are some key differences between eruptions at geysers and volcanoes — e.g. water versus magma — both are driven by localized input of mass and energy at depth, and this gives rise to some similarities in behavior. In the following video we’ll be looking at ground deformation and gas emissions at Kilauea Volcano. Look out for comparisons with Lone Star’s behavior in the previous video.&lt;/p&gt;
+&lt;p&gt;#(10 YR KILAUEA VID)
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/288805184&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Did you notice the long term inflation of Kilauea&amp;rsquo;s summit preceding the eruption? Like at Lone Star Geyser, this inflation is due to pressure build up deep underground, which then gets released during the eruption. In the Kilauea video, ten years of data (sped up into a minute-long movie) only covers one eruption cycle, while at Lone Star Geyser, each eruption cycle lasts roughly 3 hours!&lt;/p&gt;
+&lt;p&gt;When we zoom in on Kilauea&amp;rsquo;s activity during the eruption in 2018, there is another kind of episodic behaviour that is revealed. The following video explores earthquakes at Kilauea&amp;rsquo;s summit crater during the summer of 2018. What kinds of cycles can you see in this video?&lt;/p&gt;
+&lt;p&gt;#(2018 KILAUEA VID)
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/368839934&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>
