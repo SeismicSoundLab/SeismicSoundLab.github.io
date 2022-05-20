@@ -7,7 +7,7 @@
     <description>Wave Propagation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://seismicsoundlab.github.io/images/icon_hu5ee8f58533be3c204bc71859545a1f01_314432_512x512_fill_lanczos_center_2.png</url>
+      <url>https://seismicsoundlab.github.io/images/icon_hu5ee8f58533be3c204bc71859545a1f01_314432_512x512_fill_lanczos_center_3.png</url>
       <title>Wave Propagation</title>
       <link>https://seismicsoundlab.github.io/tag/wave-propagation/</link>
     </image>
@@ -23,7 +23,7 @@
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
-This movie shows the seismic wave field in the Earth for two hours after the Tohoku Magnitude 9.0 earthquake on March 11, 2011. The sounds are real seismic data taken from 8 seismometers on a great circle around the globe, and sped up into the sonic range. The first two sequences are filtered to emphasize surface waves and the second two filtered to emphasize body waves. The simulation was performed by Daniel Peter using SPECFEM3D and rendered with ``yt&#39;&#39; (
+This movie shows the seismic wave field in the Earth for two hours after the Tohoku Magnitude 9.0 earthquake on March 11, 2011. The sounds are real seismic data taken from 8 seismometers on a great circle around the globe, and sped up into the sonic range. The first two sequences are filtered to emphasize surface waves and the second two filtered to emphasize body waves. The simulation was performed by Daniel Peter using SPECFEM3D and rendered with ``yt&amp;rsquo;&amp;rsquo; (
 &lt;a href=&#34;http://www.yt-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;yt-project.org&lt;/a&gt;), by Matt Turk. Concept and design by Ben Holtzman and Jason Candler.&lt;/p&gt;
 &lt;p&gt;Ben Holtzman, Matt Turk, Jason Candler. CC seismicsoundlab.org&lt;/p&gt;
 &lt;h2 id=&#34;related-learning-units&#34;&gt;Related Learning Units&lt;/h2&gt;
